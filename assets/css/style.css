@@ -402,7 +402,7 @@ p{
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/row-lettuce-greenhouse.jpg") top left;
+  background: url("../img/hero.jpg") top left;
   background-size: cover;
   position: relative;
 }
